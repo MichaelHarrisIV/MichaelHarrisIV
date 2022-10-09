@@ -7,7 +7,7 @@
 #####   🐯 - Clemson CS Student
 #####   📖 - Reading: The Mythical Man Month by Frederick Brooks
 #####   🎥 - Watching: Breaking Bad, The Mandalorian                                              
-#####   🎮 - Playing: Rainbow 6 Siege, FIFA
+#####   🎮 - Playing: Rainbow 6 Siege, Madden
 #####   🧠 - Learning: Van Emde Boas Tree
 #####   📫 - How to reach me:
 <div id="badges">
